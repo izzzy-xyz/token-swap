@@ -35,7 +35,9 @@ export default function Home() {
           <Claim tokenDrop={tokenDrop} />
       
       <h5 className={styles.textLeft}>
-      To mint tokens connect MetaMask wallet and choose the Polygon Mainnet network.<br></br>
+      To mint tokens connect MetaMask wallet and choose the Polygon Mainnet network.
+      Contract Address: 0x612e62488A2d36018ec7539a6a8BcfFC412B5eD6 
+        <br></br>
       <span>This currency will be used as a management token for the exchange, 
       it can be bought and traded between users on a decentralized exchange, 
       add liquidity and earn from the liquidity pool, allow users to vote, 
