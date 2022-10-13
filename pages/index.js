@@ -35,7 +35,8 @@ export default function Home() {
           <Claim tokenDrop={tokenDrop} />
       
       <h5 className={styles.textLeft}>
-      To mint tokens connect MetaMask wallet and choose the Polygon Mainnet network.
+      To mint tokens connect MetaMask wallet and choose the Polygon Mainnet network. 
+      Send (Polygon) MATIC to your wallet, and swap for IzzzyCoin.
       Contract Address: 0x612e62488A2d36018ec7539a6a8BcfFC412B5eD6 
         <br></br>
       <span>This currency will be used as a management token for the exchange, 
